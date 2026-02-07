@@ -1,3 +1,5 @@
+![Dashboard](dashboard.png)
+
 LARAVEL-DEVELOPMENT-INDUSTRIAL-SUPPLY-MANAGEMENT-SYSTEM
 
 An Industrial Supply Management System built with Laravel, designed to manage products, suppliers, inventory, and transactions efficiently. This system is intended for small to medium industrial businesses that require structured supply tracking and management.
